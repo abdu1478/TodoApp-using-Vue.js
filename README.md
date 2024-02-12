@@ -17,4 +17,4 @@ Technologies Used
 3. JS(Vanilla JS)
 4: Vue.js
 
-![Screenshot](./src/assets/images/Todo%20List%20App%20-%20Google%20Chrome%202_12_2024%2012_54_08%20PM.png)
+![Screenshot](./src/assets/images/Todo%20List%20App.png)
